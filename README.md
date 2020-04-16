@@ -14,7 +14,7 @@
 
 Inside the file called `chessboard.html`, create a chessboard using HTML and flexbox. The board should work at any width for the outermost container.
 
-![chessboard-02](https://user-images.githubusercontent.com/1687902/79484248-5c3b9800-7fe1-11ea-9fc0-3ac658312d4e.png)
+![chessboard-02](https://user-image)s.githubusercontent.com/1687902/79484248-5c3b9800-7fe1-11ea-9fc0-3ac658312d4e.png
 
 ### 1.1 Bonus - Tile Identifiers
 
